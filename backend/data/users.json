@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "cargo": "Control Administrativos Nombrados",
+        "nombres": "Bernarda",
+        "apellidos": "Perez",
+        "clave": "1234"
+    },
+    {
+        "id": 2,
+        "cargo": "Control Administrativos Contratados",
+        "nombres": "Jherson",
+        "apellidos": "Ampuero Mena",
+        "clave": "abcd1234"
+    },
+    {
+        "id": 3,
+        "cargo": "Control Docentes Nombrados",
+        "nombres": "Ana",
+        "apellidos": "Torres",
+        "clave": "9876"
+    },
+    {
+        "id": 4,
+        "cargo": "Control Docentes Contratados",
+        "nombres": "Carlos",
+        "apellidos": "Martinez",
+        "clave": "abcd9876"
+    }
+
+]

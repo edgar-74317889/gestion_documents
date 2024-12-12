@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "tipoDocumento": "Informe",
+    "descripcion": "Informe trimestral de actividades",
+    "estado": "Aprobado",
+    "fechaRecepcion": "2024-11-01",
+    "mesCorrespondiente": "Noviembre",
+    "archivo": "informe_trimestral.pdf"
+  },
+  {
+    "id": 2,
+    "tipoDocumento": "Licencia",
+    "descripcion": "Licencia médica de 7 días",
+    "estado": "Pendiente",
+    "fechaRecepcion": "2024-11-05",
+    "mesCorrespondiente": "Noviembre",
+    "archivo": "licencia_medica.pdf"
+  }
+]
